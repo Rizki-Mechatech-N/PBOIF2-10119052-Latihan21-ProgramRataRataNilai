@@ -30,7 +30,8 @@ public class PBOIF210119052Latihan21ProgramRataRataNilai {
         rata = jum / n;
         System.out.println();
         System.out.println("Maka, Rata-rata Nilainya adalah "+rata);
-        System.out.println("Developed By : Rizki Dwi Nugraha");
+        System.out.println("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
+        System.out.println("Developed By Rizki Dwi Nugraha");
     }
     
 }
